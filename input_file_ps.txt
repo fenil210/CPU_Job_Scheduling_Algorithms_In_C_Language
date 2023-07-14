@@ -1,0 +1,8 @@
+4
+0 0 10 5
+1 1 6 4
+2 3 2 2
+3 5 4 0
+4 7 3 3
+//first line number of process
+//ProcessID,Priority of Process(high number low priority) ,Arrival Time, CPU burst time
